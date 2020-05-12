@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\2 lab Val.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\_2_lab_Val.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\2 lab Val.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\2 lab Val.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\bin\Debug\2 lab Val.exe.config
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\bin\Debug\2 lab Val.exe
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\bin\Debug\2 lab Val.pdb
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\2 lab Val.exe
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\2 lab Val.pdb
+F:\Users\MrTokin\source\repos\2 lab Val\2 lab Val\obj\Debug\_2_lab_Val.Form1.resources
